@@ -6,6 +6,7 @@ Tuy nhiên trong một vài trường hợp bạn sẽ cần sử dụng tầng 
 
 Lợi ích của việc này có rất nhiều, ví dụ như:
 
+
 * Bạn có thể gửi chính xác dữ liệu bạn muốn gửi giúp cho giao thức (protocol) của bạn gọn gàng và hiệu quả.
 * Bạn có thể gửi dữ liệu tới client (đã kết nối) bất kỳ khi nào bạn muốn thay vì bắt client phải kiểm tra để lấy về (poll).
 * Bạn có thể viết socket server của riêng bạn mà không bị phụ thuộc vào các web server sẵn có với ngôn ngữ bạn lựa chọn.
